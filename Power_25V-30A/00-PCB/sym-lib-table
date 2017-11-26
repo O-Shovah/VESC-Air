@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name Power-board_25V-30A-rescue)(type Legacy)(uri ${KIPRJMOD}/Power-board_25V-30A-rescue.lib)(options "")(descr ""))
 )
